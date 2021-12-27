@@ -1,0 +1,28 @@
+  <div class="mobile-nav-pull-from-left bg-i wf h5h">
+      <div class="d-flex w-100">
+
+        <div class="d-flex center-v-h wh">
+          <div>
+            <img src="C:\Users\Ant\Downloads\image 35.png" alt="" class="img-fluid d-blck">
+          </div>
+          <div>
+            <p class="pm-0">my account</p>
+          </div>
+        </div>
+
+        <div class="d-flex center-v-h wh">
+          <div class="rel">
+            <div>
+              <img src="C:\Users\Ant\Downloads\Ellipse 2 (2).png" alt="" class="img-fluid">
+            </div>
+            <div class="abs h-100">
+              <img src="C:\Users\Ant\Downloads\image 37.png" alt="" class="img-fluid">
+            </div>
+          </div>
+          <div>
+            <p class="pm-0">my account</p>
+          </div>
+        </div>
+
+      </div>
+    </div>
