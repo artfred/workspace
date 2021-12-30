@@ -159,6 +159,16 @@ nav .second {
   align-items: center;
   display: flex;
 }
+.cen-v-h {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+.cen-h-v {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
 .center-v {
   display: flex;
   align-items: center;
@@ -572,9 +582,7 @@ nav .second {
 .z-0 {
   z-index: 0;
 }
-.bg-wht {
-  background-color: white!important;
-}
+
 .hamper-finder-line {
   align-items: center;
   justify-content: center;
@@ -1029,9 +1037,7 @@ nav .second {
 
 /* =========================hamper finder */
 
-.bg-w {
-  background-color: #ffc107!important;
-}
+
 .bg-i {
   background-color: #17a2b8!important;
 }
@@ -2013,4 +2019,47 @@ i {
 .d-li li {
   width: 100%;
   display: block;
+}
+
+.t-x-t {
+	width: 100px!important;
+	height: 100px!important;
+	margin: 5px!important;
+  background-color: red;
+}
+.circle {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+.phone {
+  border-radius: 50%;
+  height: 38px;
+  width: 38px;
+  border: 2px solid #68b0e8;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  margin-right: 5px;
+}
+.phone i {
+  font-size: 20px;
+  color: #68b0e8;
+  text-align: center;
+}
+.mobile p {
+  font-size: 19px;
+  color: #25262D;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+}
+.bg-whmarker {
+	display: none!important;
+}
+.bg-wht {
+  background-color: white!important;
+}
+.bg-w {
+  background-color: #ffc107!important;
+  display: block!important;
 }

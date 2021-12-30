@@ -1,0 +1,9 @@
+
+<div class="d-flex">
+  <div class="phone">
+    <i class="fas fa-phone-alt"></i>
+  </div>
+  <div class="mobile center-v-h">
+    <p class="pm-0">1300 936 406</p>
+  </div>    
+</div>
