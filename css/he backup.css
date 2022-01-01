@@ -857,9 +857,7 @@ nav .second {
   margin: 0px;
   text-transform: uppercase;
 }
-.brd div {
-  border: 1px solid #f0eaea;;
-}
+
 .bld {
   font-weight: bold;
 }
@@ -1981,16 +1979,8 @@ i {
 .cblck {
   color: black!important;
 }
-.mobilenav {
-  background-color: transparent;
-  height: 58px;
-}
-.img-area {
-	width:140px;
-  display: block;
-  background-color: transparent;
-  border: none!important;
-}
+
+
 .w3h {
 	width: 300px!important;
 }
@@ -2012,6 +2002,7 @@ i {
 .d-li li a {
 	text-align: left!important;
   color: black;
+  line-height: 1px!important;
 }
 .d-li ul {
   width: 100%;
@@ -2034,21 +2025,21 @@ i {
 }
 .phone {
   border-radius: 50%;
-  height: 38px;
-  width: 38px;
-  border: 2px solid #68b0e8;
+  height: 45px;
+  width: 45px;
+  border: 3px solid #68b0e8;
   justify-content: center;
   align-items: center;
   display: flex;
   margin-right: 5px;
 }
 .phone i {
-  font-size: 20px;
+  font-size: 24px;
   color: #68b0e8;
   text-align: center;
 }
 .mobile p {
-  font-size: 19px;
+  font-size: 26px;
   color: #25262D;
   font-family: 'Poppins', sans-serif;
   font-weight: 600;
@@ -2059,7 +2050,97 @@ i {
 .bg-wht {
   background-color: white!important;
 }
-.bg-w {
+.bg-wmarker {
   background-color: #ffc107!important;
   display: block!important;
+}
+.bg-w {
+  background-color: #ffc107!important;
+}
+
+.menu-mob-font {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 200;
+}
+.menu-mob-font li a {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 18px;
+  font-weight: 200;
+	height: 100%!important;
+}
+.menu-mob-font h3 {
+  font-size: 18px;
+  font-weight: bold;
+  padding: 0;
+  margin: 0;
+}
+.menu-mob-font h4 {
+	font-weight: 500!important;
+  font-size: 18px!important;
+  margin: 0;
+  padding: 0;
+}
+.menu-mob-font ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+.menu-mob-font li.more a {
+	font-weight: 300!important;
+}
+
+
+.mobilenav {
+  background-color: transparent;
+  height: 58px;
+}
+.mobilenav li {
+  float: left;
+	height: 100%!important;
+}
+.mobilenav li a {
+  display: block;
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-left: 1px;
+  text-decoration: none;
+  background-color: transparent;
+  color: transparent;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
+.mobilenav ul {
+	list-style-type: none!important;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+.img-area {
+	width:125px!important;
+  display: block;
+  background-color: transparent;
+  border: none!important;
+  height: 59px;
+}
+
+.w9p {
+	width: 90%!important;
+  margin: auto;
+}
+.brd-t {
+  border-top: 1px solid #CDCDCD;
+}
+.mobile-nav-pull-from-left h3 {
+	font-size: 17px!important;
+}
+#chaticonnavleft {
+  color: #68b0e8;
+  font-size: 35px;
+}
+
+.h-exact {
+  height: 120px;
+  overflow: hidden;
 }

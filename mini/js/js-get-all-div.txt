@@ -1,0 +1,9 @@
+  var x = document.getElementById("contactformidforbtn").querySelectorAll(".col-lg-6"); 
+      x[0].classList.remove('col-lg-6');
+      x[0].style.display = "flex";
+      x[0].style.flexDirection = "column";
+      x[0].classList.add('col-lg-12');
+      x[3].classList.remove('col-lg-6');
+      x[3].classList.add('col-lg-12');
+      x[4].classList.remove('col-lg-6');
+      x[4].classList.add('col-lg-12');

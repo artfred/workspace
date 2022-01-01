@@ -1,0 +1,1 @@
+document.getElementById("gourmet-food-link-text").addEventListener("mouseover", gourmetFood);

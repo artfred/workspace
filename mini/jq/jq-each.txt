@@ -1,0 +1,5 @@
+$('#editorbody *').each(function () {
+            var id = this.id;
+            $("#"+id).css("top","");
+            $("#"+id).css("left","");
+        });

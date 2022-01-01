@@ -1,0 +1,1 @@
+ var width_c = document.documentElement.clientWidth;
