@@ -1,0 +1,12 @@
+.s-icon2 {
+  position: absolute;
+  right: 20px;
+  top: 0;
+  height: 100%;
+  width: 30px;
+  justify-content: center;
+  align-items: center;
+  padding-top: 13px;
+  background-color: transparent;
+  color: white;
+}

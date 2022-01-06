@@ -1,0 +1,3 @@
+.search-result-item {
+  width: 190px!important;
+}

@@ -1,0 +1,3 @@
+.lorry-click {
+  width: 200px;
+}

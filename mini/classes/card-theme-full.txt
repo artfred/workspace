@@ -1,0 +1,5 @@
+.card-theme-full {
+  border: 1px solid #E4E4E4;
+  width: 100%!important;
+  height: auto;
+}

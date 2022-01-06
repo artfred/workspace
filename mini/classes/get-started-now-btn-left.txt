@@ -1,0 +1,4 @@
+.get-started-now-btn-left {
+  width: 252px;
+  height: 37px;
+}

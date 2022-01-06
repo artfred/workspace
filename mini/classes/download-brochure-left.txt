@@ -1,0 +1,7 @@
+.download-brochure-left {
+  width: 412px;
+  height: 100%!important;
+  padding: 20px;
+  background-color: #2B2B2B;
+  color: white!important;
+}

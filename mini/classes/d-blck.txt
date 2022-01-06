@@ -1,0 +1,3 @@
+.d-blck {
+	display: block!important;
+}

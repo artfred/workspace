@@ -1,0 +1,9 @@
+.input-rad {
+  border-radius: 10px;
+  border: 1px solid #E4E4E4;
+  text-indent: 5px;
+  width: 100%;
+  height: 100%;
+  margin-bottom: 0px!important;
+  height: 40px!important;
+}

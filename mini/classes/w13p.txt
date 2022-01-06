@@ -1,0 +1,3 @@
+.w13p {
+	width: 13%!important;
+}

@@ -1,0 +1,3 @@
+.cblue-theme-tgp {
+  color: #68b0e8;
+}

@@ -1,0 +1,3 @@
+.w5x {
+	width: 50px!important;
+}

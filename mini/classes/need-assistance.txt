@@ -1,0 +1,4 @@
+.need-assistance {
+  width: 200px;
+  margin: auto;
+}

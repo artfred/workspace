@@ -1,0 +1,5 @@
+.address-book-text-box {
+  width: 672px;
+  height: 40px;
+  margin: auto;
+}

@@ -1,0 +1,6 @@
+.del-est {
+  width: 400px;
+  border: 1px solid burlywood;
+  margin: auto;
+  padding: 10px;
+}

@@ -1,0 +1,5 @@
+.order-tracking-hero {
+  height: 300px;
+  /* height: 783px; */
+  width: 100%;
+}

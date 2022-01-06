@@ -1,0 +1,6 @@
+.text-theme-title {
+  font-size: 18px!important;
+  line-height: 24px;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}

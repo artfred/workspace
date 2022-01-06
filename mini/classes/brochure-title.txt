@@ -1,0 +1,4 @@
+.brochure-title {
+  font-size: 52px!important;
+  font-family: 'Libre Baskerville', serif;
+}

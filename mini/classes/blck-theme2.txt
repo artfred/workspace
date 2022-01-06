@@ -1,0 +1,4 @@
+.blck-theme2 {
+  background-color: #2B2B2B!important;
+  color: white!important;
+}

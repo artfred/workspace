@@ -1,0 +1,3 @@
+.nbrd {
+	border: none!important;
+}

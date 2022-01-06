@@ -1,0 +1,5 @@
+.btn-shop-now {
+  width: 303px;
+  height: 63px;
+  margin-top: 20px;
+}

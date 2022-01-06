@@ -1,0 +1,11 @@
+.s-icon3 {
+  position: absolute;
+  right: 0;
+  display: flex;
+  top: 0;
+  height: 100%;
+  width: 50px;
+  justify-content: center;
+  align-items: center;
+  background-color: transparent;
+}

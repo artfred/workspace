@@ -1,0 +1,3 @@
+.w4 {
+  width: 40%!important;
+}

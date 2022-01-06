@@ -1,0 +1,4 @@
+.get-started-now-title {
+  height: auto;
+  margin: auto;
+}

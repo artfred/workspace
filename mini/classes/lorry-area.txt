@@ -1,0 +1,3 @@
+.lorry-area {
+  /* width: 125px; */
+}

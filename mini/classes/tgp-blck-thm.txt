@@ -1,0 +1,3 @@
+.tgp-blck-thm {
+  color: #25262D!important;
+}

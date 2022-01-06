@@ -1,0 +1,3 @@
+.font-mont-b {
+  font-weight: 600;
+}

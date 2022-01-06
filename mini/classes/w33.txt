@@ -1,0 +1,4 @@
+.w33 {
+  width: 33%!important;
+  margin: auto;
+}

@@ -1,0 +1,4 @@
+.tgp-bg-blue {
+  background: #68b0e8;
+  color: white;
+}

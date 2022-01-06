@@ -1,0 +1,7 @@
+.HOW-TO-USE-YOUR-VOUCHER-div {
+  width: 625px;
+  height: auto;
+  margin: auto;
+  text-align: center;
+  margin-top: 40px;
+}

@@ -1,0 +1,9 @@
+.img-float {
+  position: absolute;
+  top: -10px;
+  bottom: -30px;
+  z-index: 1;
+  width: 60px;
+  height: 60px;
+  margin: auto;
+}

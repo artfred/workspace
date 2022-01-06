@@ -1,0 +1,6 @@
+.text-center-light-c {
+  font-size: 16px;
+  text-align: center;
+  margin: 0px;
+  padding: 2px;
+}

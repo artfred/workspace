@@ -1,0 +1,3 @@
+.txt-wht {
+  color: white!important;
+}

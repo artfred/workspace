@@ -1,0 +1,4 @@
+.w9p {
+	width: 90%!important;
+  margin: auto;
+}

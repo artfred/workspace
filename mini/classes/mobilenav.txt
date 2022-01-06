@@ -1,0 +1,4 @@
+.mobilenav {
+  background-color: transparent;
+  height: 58px;
+}

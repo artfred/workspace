@@ -1,0 +1,6 @@
+.down-del-like {
+  width: 1920px;
+  height: 56px;
+  background-color: #121212;
+  color: white;
+}

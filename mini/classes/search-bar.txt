@@ -1,0 +1,5 @@
+.search-bar {
+  width: 517px;
+  height: 42px;
+  margin: auto;
+}

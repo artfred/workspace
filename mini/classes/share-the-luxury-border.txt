@@ -1,0 +1,5 @@
+.share-the-luxury-border {
+  border: 2px solid #BFA774;
+  width: 100%;
+  margin: auto;
+}

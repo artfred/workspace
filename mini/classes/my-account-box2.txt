@@ -1,0 +1,5 @@
+.my-account-box2 {
+  /* width: 1320px; */
+  width: 100%;
+  margin: auto;
+}

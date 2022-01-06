@@ -1,0 +1,6 @@
+.contact-us-box {
+  width: 1296px;
+  height: 72px;
+  margin: auto;
+  background-color: ;
+}

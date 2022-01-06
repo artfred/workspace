@@ -1,0 +1,5 @@
+.share-the-luxury-item {
+  width: 296px;
+  height: 296px;
+  margin: 10px;
+}

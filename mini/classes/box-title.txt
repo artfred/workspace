@@ -1,0 +1,4 @@
+.box-title {
+  width: 100%!important;
+  height: 65px;
+}

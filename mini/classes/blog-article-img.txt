@@ -1,0 +1,3 @@
+.blog-article-img {
+  height: 297px;
+}

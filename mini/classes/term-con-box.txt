@@ -1,0 +1,4 @@
+.term-con-box {
+  width: 1114px;
+  margin: auto;
+}

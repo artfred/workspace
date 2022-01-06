@@ -1,0 +1,10 @@
+.hamper-finder-line {
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  top: 25px;
+  background-color: black;
+  z-index: 1;
+  width: 100%;
+  border: 1px solid #BFA774;
+}

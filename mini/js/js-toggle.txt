@@ -1,4 +1,10 @@
+
 <i onclick="toggleIcoThis(this)" class="cblck fas fa-bars"></i>
+
+
+
+<script>
 function toggleIcoThis(x) {
-    x.classList.toggle("fa-times");
-  }
+  x.classList.toggle("fa-times");
+}
+</script>

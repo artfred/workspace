@@ -1,0 +1,7 @@
+.login-box-title {
+  width: 521px;
+  height: 65px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

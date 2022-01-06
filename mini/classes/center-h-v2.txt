@@ -1,0 +1,6 @@
+.center-h-v2 {
+  display: flex;
+  flex-wrap: wrap!important;
+  align-content: stretch!important;
+  justify-content: center!important;
+}

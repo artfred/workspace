@@ -1,0 +1,5 @@
+.who-are-we {
+  width: 625px;
+  height: auto;
+  margin: auto;
+}

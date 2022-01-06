@@ -1,0 +1,4 @@
+.live-chat {
+  width: 294px;
+  height: 62px;
+}

@@ -1,0 +1,3 @@
+.w7p {
+	width: 70%!important;
+}

@@ -1,0 +1,3 @@
+.exact-height {
+  height: 77px!important;
+}

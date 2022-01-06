@@ -1,0 +1,7 @@
+.blog-item {
+  width: 435px;
+  height: 460px;
+  border-radius: 10px;
+  border: 1px solid gray;
+  margin: 10px;
+}

@@ -1,0 +1,7 @@
+.delivery-box-left {
+  border-radius: 10px;
+  border: 1px solid #E4E4E4;
+  width: 508px;
+  height: auto;
+  margin: auto;
+}

@@ -1,0 +1,3 @@
+.w15p {
+	width: 15%!important;
+}

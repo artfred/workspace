@@ -1,0 +1,6 @@
+.contact-out-team-btn {
+  width: 252px;
+  height: 37px;
+  background: #2B2B2B!important;
+  color: white;
+}

@@ -1,0 +1,5 @@
+.navbar-c {
+  width: 100%;
+  height: 111px;
+  position: fixed;
+}

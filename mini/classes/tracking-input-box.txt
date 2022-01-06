@@ -1,0 +1,5 @@
+.tracking-input-box {
+  width: 429px;
+  height: auto;
+  margin: auto;
+}

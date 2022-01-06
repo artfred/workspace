@@ -1,0 +1,5 @@
+.chat-box {
+  width: 280px;
+  padding: 10px;
+  margin: auto;
+}

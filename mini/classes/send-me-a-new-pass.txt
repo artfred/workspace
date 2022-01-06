@@ -1,0 +1,4 @@
+.send-me-a-new-pass {
+  width: 311px;
+  height: 40px;
+}

@@ -1,0 +1,4 @@
+.tgp-font-n {
+  font-family: 'Nunito', sans-serif;
+  font-weight: 700;
+}

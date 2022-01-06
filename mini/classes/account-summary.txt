@@ -1,0 +1,3 @@
+.account-summary {
+  width: 1250px;
+}

@@ -1,0 +1,4 @@
+.lorry-city {
+  width: 208px;
+  height: 100%;
+}

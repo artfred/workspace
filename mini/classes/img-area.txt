@@ -1,0 +1,7 @@
+.img-area {
+	width:125px!important;
+  display: block;
+  background-color: transparent;
+  border: none!important;
+  height: 59px;
+}

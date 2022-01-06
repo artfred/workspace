@@ -1,0 +1,4 @@
+.bg-wmarker {
+  background-color: #ffc107!important;
+  display: block!important;
+}

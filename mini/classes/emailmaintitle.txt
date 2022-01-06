@@ -1,0 +1,7 @@
+.emailmaintitle {
+  width: 566px;
+  height: auto;
+  margin: auto;
+  margin-top: 80px;
+  margin-bottom: 30px;
+}

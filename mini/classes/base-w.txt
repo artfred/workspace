@@ -1,0 +1,4 @@
+.base-w {
+  width: 1350px!important;
+  margin: auto;
+}

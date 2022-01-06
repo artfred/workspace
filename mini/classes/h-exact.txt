@@ -1,0 +1,4 @@
+.h-exact {
+  height: 120px;
+  overflow: hidden;
+}

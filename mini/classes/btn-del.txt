@@ -1,0 +1,5 @@
+.btn-del {
+  width: 311px;
+  height: 40px;
+  border-radius: 3px;
+}

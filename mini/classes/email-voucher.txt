@@ -1,0 +1,5 @@
+.email-voucher {
+  width: 900px;
+  height: 3521px;
+  margin: auto;
+}

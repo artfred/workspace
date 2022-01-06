@@ -1,0 +1,6 @@
+.share-the-luxury-title {
+  position: absolute;
+  top: -30px;
+  width: 100%;
+  background-color: transparent!important;
+}

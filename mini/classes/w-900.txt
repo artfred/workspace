@@ -1,0 +1,5 @@
+.w-900 {
+  width: 900px;
+  margin: auto;
+  background-color: black;
+}

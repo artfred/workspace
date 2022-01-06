@@ -1,0 +1,5 @@
+.continue-to-checkout-btn {
+	width: 391!important;
+	height: 56px!important;
+	background-color: #25262D!important;
+}

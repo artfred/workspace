@@ -1,0 +1,6 @@
+.share-the-luxury {
+  width: 100%;
+  margin: auto;
+  padding: 10px;
+  padding-top: 45px;
+}

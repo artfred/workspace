@@ -1,0 +1,5 @@
+.text-colored-box {
+  width: 368px;
+  height: 18px;
+  margin: auto;
+}

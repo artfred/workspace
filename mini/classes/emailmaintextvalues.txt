@@ -1,0 +1,6 @@
+.emailmaintextvalues {
+  width: 546px;
+  height: auto;
+  margin: auto;
+  margin-top: 40px;
+}

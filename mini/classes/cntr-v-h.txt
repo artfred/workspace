@@ -1,0 +1,5 @@
+.cntr-v-h {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

@@ -1,0 +1,12 @@
+.btn-lg-c {
+  width: 311px;
+  height: 40px;
+  margin: auto;
+  border-radius: 3px;
+  opacity: 1;
+  text-transform: uppercase;
+  color: white;
+  justify-content: center;
+  align-items: center;
+  padding-top: 4px;
+}

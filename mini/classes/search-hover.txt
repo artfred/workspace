@@ -1,0 +1,3 @@
+.search-hover {
+  width: 881px;
+}

@@ -1,0 +1,3 @@
+.address-book-input-box {
+  width: 1155px;
+}

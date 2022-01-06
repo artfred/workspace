@@ -1,0 +1,4 @@
+.order-tracking-box2 {
+  width: 1320px;
+  margin: auto;
+}

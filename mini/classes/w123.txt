@@ -1,0 +1,3 @@
+.w123 {
+  width: 123px!important;
+}

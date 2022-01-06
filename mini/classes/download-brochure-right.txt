@@ -1,0 +1,4 @@
+.download-brochure-right {
+  width: 708px;
+  height: 100%!important
+}

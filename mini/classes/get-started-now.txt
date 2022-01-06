@@ -1,0 +1,5 @@
+.get-started-now {
+  width: 703px;
+  height: auto;
+  margin: auto;
+}

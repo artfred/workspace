@@ -1,0 +1,4 @@
+.lorry {
+  width: 73px;
+  height: 100%;
+}

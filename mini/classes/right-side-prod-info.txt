@@ -1,0 +1,5 @@
+.right-side-prod-info {
+  width: 881px;
+  margin: auto;
+  border: 1px solid burlywood;
+}

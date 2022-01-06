@@ -1,0 +1,6 @@
+.emailmaintext {
+  width: 546px;
+  height: auto;
+  margin: auto;
+  background-color: red;
+}

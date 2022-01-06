@@ -1,0 +1,4 @@
+.premium-ribbon-img {
+  width: 310px!important;
+  margin: auto;
+}

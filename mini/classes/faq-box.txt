@@ -1,0 +1,5 @@
+.faq-box {
+  width: 1219px;
+  height: 679px;
+  margin: auto;
+}

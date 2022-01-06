@@ -1,0 +1,4 @@
+.lorry-code {
+  width: 123px;
+  height: 100%;
+}

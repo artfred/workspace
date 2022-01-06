@@ -1,0 +1,7 @@
+.center-v-h2 {
+  display: flex;
+  flex-wrap: wrap!important;
+  align-content: stretch!important;
+  justify-content: center!important;
+  width: 100%!important;
+}

@@ -1,0 +1,3 @@
+.cart-info {
+  width: 50%!important;
+}

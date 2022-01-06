@@ -1,0 +1,5 @@
+.blog-article-vid {
+  width: 854px!important;
+  height: 480px;
+  margin:auto;
+}

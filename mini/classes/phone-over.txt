@@ -1,0 +1,3 @@
+.phone-over {
+  width: 50px;
+}

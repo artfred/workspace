@@ -1,0 +1,3 @@
+.text-colored2 {
+  color: #BFA774!important;
+}

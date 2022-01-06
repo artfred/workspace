@@ -1,0 +1,6 @@
+.fw-699 {}
+.w-100-355 {}
+
+@media (max-width : 744px) {
+      width: 100%!important;
+  }

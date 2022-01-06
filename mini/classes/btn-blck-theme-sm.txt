@@ -1,0 +1,6 @@
+.btn-blck-theme-sm {
+  width: 170px;
+  height: 40px;
+  background-color: #2B2B2B;
+  color: white;
+}

@@ -1,0 +1,3 @@
+.delivery-estimates {
+  width: 858px;
+}

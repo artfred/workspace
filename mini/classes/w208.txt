@@ -1,0 +1,3 @@
+.w208 {
+  width: 208px!important;
+}

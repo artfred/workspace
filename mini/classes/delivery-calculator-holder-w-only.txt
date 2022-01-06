@@ -1,0 +1,3 @@
+.delivery-calculator-holder-w-only {
+  width: 650px;
+}

@@ -1,0 +1,4 @@
+.menu-mob-font {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 200;
+}

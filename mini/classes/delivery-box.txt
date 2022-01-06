@@ -1,0 +1,3 @@
+.delivery-box {
+  width: 1114px;
+}

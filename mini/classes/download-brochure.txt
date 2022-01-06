@@ -1,0 +1,4 @@
+.download-brochure {
+  height: 437px!important;
+  margin: auto;
+}

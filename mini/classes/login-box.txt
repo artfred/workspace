@@ -1,0 +1,4 @@
+.login-box {
+  width: 521px;
+  border: 1px solid #E4E4E4;
+}
